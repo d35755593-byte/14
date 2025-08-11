@@ -1,0 +1,27 @@
+2025-05-12 23:52:27,749 - INFO - Дії успішно завантажено
+2025-05-12 23:52:27,775 - INFO - Список profiles оновлено, кількість елементів: 1
+2025-05-12 23:52:27,776 - INFO - Список templates оновлено, кількість елементів: 1
+2025-05-12 23:52:27,776 - INFO - Ініціалізація вкладки 'Запуск бота', шаблони оновлюються через __init__
+2025-05-12 23:53:51,205 - INFO - Ініціалізація профілю david (9-1) - NFT: C:/Users/testnet/Desktop/david (9-1) - NFT.lnk
+2025-05-12 23:53:51,207 - WARNING - Параметри профілю відсутні, перевіряємо ярлик: C:/Users/testnet/Desktop/david (9-1) - NFT.lnk
+2025-05-12 23:53:51,209 - ERROR - Помилка парсингу ярлика (Path: C:/Users/testnet/Desktop/david (9-1) - NFT.lnk): (-2147221008, 'CoInitialize has not been called.', None, None)
+2025-05-12 23:53:51,209 - ERROR - Не вдалося отримати параметри профілю для david (9-1) - NFT
+2025-05-12 23:53:51,215 - INFO - Бот зупинено
+2025-05-12 23:53:59,142 - WARNING - Виберіть шаблон
+2025-05-12 23:54:01,093 - INFO - Дії успішно збережено
+2025-05-12 23:54:01,094 - INFO - Прив’язано профілі до шаблону 1: ['david (9-1) - NFT']
+2025-05-12 23:54:02,649 - INFO - Дії успішно збережено
+2025-05-12 23:54:02,649 - INFO - Прив’язано профілі до шаблону 1: ['david (9-1) - NFT']
+2025-05-12 23:54:03,113 - INFO - Дії успішно збережено
+2025-05-12 23:54:03,113 - INFO - Прив’язано профілі до шаблону 1: ['david (9-1) - NFT']
+2025-05-12 23:54:05,455 - INFO - Дії успішно збережено
+2025-05-12 23:54:05,455 - INFO - Прив’язано профілі до шаблону 1: ['david (9-1) - NFT']
+2025-05-12 23:54:07,428 - INFO - Спроба відкрити діалог вибору ярлика
+2025-05-12 23:54:10,148 - WARNING - Не вибрано ярлик
+2025-05-12 23:55:11,233 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:12,561 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:12,935 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:13,113 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:13,259 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:13,403 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end
+2025-05-12 23:55:13,611 - ERROR - Директорія профілю не існує: C:\Program Files\Google\Chrome\Application\chrome.exe" --source-shortcut="C:\Users\testnet\Desktop\9-7.lnk" --profile-directory="Profile 6" --app-id=lodlkdfmihgonocnmddehnfgiljnadcf --flag-switches-begin --flag-switches-end

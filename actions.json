@@ -1,0 +1,76 @@
+{
+    "screen_resolution": {
+        "width": 1366,
+        "height": 768
+    },
+    "profiles": {
+        "david (9-1) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/david (9-1) - NFT.lnk"
+        },
+        "Margo (9-2) - NFT": {
+            "shortcut_path": "C:/Users/testnet/Desktop/Margo (9-2) - NFT.lnk"
+        }
+    },
+    "templates": {
+        "1": {
+            "profiles": [
+                "david (9-1) - NFT"
+            ],
+            "actions": [
+                {
+                    "action": "айт",
+                    "x": 82,
+                    "y": 100,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT"
+                    ]
+                },
+                {
+                    "action": "жм",
+                    "x": 1171,
+                    "y": 559,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT"
+                    ]
+                },
+                {
+                    "action": "вийти",
+                    "x": 1349,
+                    "y": 17,
+                    "type": "клік",
+                    "profiles": [
+                        "david (9-1) - NFT"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "profiles": [
+                "Margo (9-2) - NFT"
+            ],
+            "actions": [
+                {
+                    "action": "клік",
+                    "x": 78,
+                    "y": 102,
+                    "type": "клік",
+                    "profiles": [
+                        "Margo (9-2) - NFT"
+                    ]
+                },
+                {
+                    "action": "жм",
+                    "x": 413,
+                    "y": 377,
+                    "type": "пошук_за_xpath",
+                    "selector": "//*[@id=\"somnia-quest\"]/div[1]/div[2]/div/div/div[3]/div/div[2]/div[5]/h3/button",
+                    "profiles": [
+                        "Margo (9-2) - NFT"
+                    ]
+                }
+            ]
+        }
+    }
+}
